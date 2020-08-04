@@ -7,3 +7,5 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelasalmeron)](https://www.linkedin.com/in/isabelasalmeron)
+[![Gmail Badge](https://img.shields.io/badge/-isabelasalmeron@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelasalmeron@gmail.com)](mailto:isabelasalmeron@gmail.com)
+
